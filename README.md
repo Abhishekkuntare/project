@@ -1,2 +1,2 @@
-this is basic app
-![My animated logo](assets/animation.svg)
+this is basic app       
+![Alt text](/assets/animation.gif "Optional title")
