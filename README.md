@@ -1,2 +1,2 @@
 this is basic app
-![My animated logo](assets/animation.svg)
+![Alt text](/assets/animation.gif "Optional title")
